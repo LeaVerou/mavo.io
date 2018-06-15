@@ -17,6 +17,11 @@
 		{
 			"name": "mv-logged-out",
 			"purpose": "Only show element to logged out users."
+		},
+		{
+			"name": "mv-autosize",
+			"on": "Any form element",
+			"purpose": "Make form elements autosize. This can be used on any form element, even outside Mavo apps."
 		}
 	],
 	"coreAttribute": [
